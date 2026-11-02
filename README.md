@@ -1,3 +1,5 @@
+Git koi draws a pixel-art koi from this GitHub account's public activity. Its languages color it, its contributions grow it, its streaks mark it, and the day that just ended decides how it swims. 
+
 <img src="koi/koi.gif" width="256" alt="My koi" />
 
 <!--
